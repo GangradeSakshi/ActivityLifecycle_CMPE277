@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dialogmsg">Simple Dialog</string>
+    <string name="closedialog">Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity__b">Activity_B</string>
+
+    <color name="darkblue">#00527A</color>
+    <color name="yellow">#FFFF19</color>
+    <color name="orange">#FF9900</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <string name="title_activity_dialog">Dialog</string>
+
+</resources>
